@@ -1,5 +1,6 @@
 # Ex02 Django ORM Web Application
-212224240029
+## NAME:V.DEEPAK KUMAR
+## REG.NO:212224240029
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
 
